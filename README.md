@@ -1,5 +1,5 @@
 <h1 align="center">👋¡Hola! Soy JhulianDev</h1>
-<h3 align="center">Apasionado amante de la programación y un entusiasta diseñador gráfico</h3>
+<h3 align="center">🙇🏻 Apasionado amante de la programación y un entusiasta diseñador gráfico 🙇🏻</h3>
 
 <p align="center">💼 Durante los últimos 1.2 años, he tenido la oportunidad de trabajar en una Agencia de branding con el rol principal de crear y gestionar la web de la agencia. La cual fue evolucionando desde una Landing Page informativa a una tienda online con backend, base de datos, procesadores de pago y sistema de Login.<br><br>🚀 Me apasiona crear interfaces estéticamente atractivas y funcionales que brinden soluciones efectivas. Constantemente amplío mis conocimientos con nuevas tecnologías con el objetivo de mejorar mi Stack de habilidades y, en un futuro cercano, transmitir mis conocimientos a nuevos desarrolladores.</p>
 
