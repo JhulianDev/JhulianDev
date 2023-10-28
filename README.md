@@ -10,5 +10,3 @@
 <h3 align="center">🌐 Sigueme en:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhuliandev) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
